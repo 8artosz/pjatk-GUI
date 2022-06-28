@@ -1,1 +1,1 @@
-# pjatk-GUI
+# GUI
