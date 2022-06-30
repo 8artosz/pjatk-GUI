@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9dc5694-207e-4f56-8476-d75636e1cd83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1bTwBmm9uv3iv5ISUpOI5HLgd50" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bartoszwasilewski/Desktop/Warehouses"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Projekt_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9dc5694-207e-4f56-8476-d75636e1cd83" name="Default Changelist" comment="" />
+      <created>1588669257613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588669257613</updated>
+      <workItem from="1588669259678" duration="5641000" />
+      <workItem from="1588693090652" duration="3594000" />
+      <workItem from="1588702453377" duration="4601000" />
+      <workItem from="1588715050445" duration="550000" />
+      <workItem from="1588717764973" duration="14282000" />
+      <workItem from="1588783791798" duration="1055000" />
+      <workItem from="1588802856823" duration="4615000" />
+      <workItem from="1588840959900" duration="4587000" />
+      <workItem from="1588847629501" duration="3420000" />
+      <workItem from="1588853898413" duration="1832000" />
+      <workItem from="1588870595030" duration="8094000" />
+      <workItem from="1588928440069" duration="4002000" />
+      <workItem from="1588945329336" duration="7100000" />
+      <workItem from="1588962269186" duration="2232000" />
+      <workItem from="1588968762771" duration="612000" />
+      <workItem from="1589128494306" duration="63000" />
+      <workItem from="1589199504356" duration="882000" />
+      <workItem from="1589200954744" duration="1004000" />
+      <workItem from="1589202686496" duration="78000" />
+      <workItem from="1589205516211" duration="102000" />
+      <workItem from="1589210330359" duration="92000" />
+      <workItem from="1589210636661" duration="20000" />
+      <workItem from="1589271564973" duration="1855000" />
+      <workItem from="1589731335662" duration="68000" />
+      <workItem from="1589879864446" duration="2000" />
+      <workItem from="1656608944773" duration="9000" />
+      <workItem from="1656609004540" duration="1770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

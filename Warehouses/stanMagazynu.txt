@@ -1,0 +1,38 @@
+Pomieszczenia w magazynie(id):  
+8, 5, 2, 3, 9, 6, 1, 7, 10, 4, 
+
+Pomieszczenie(id) i dane osoby, ktora je wynajmuje(imie, nazwisko, pesel, data urodzenia, miejsce zamieszkania, data wynajmu) 
+8: 
+5: Bartek Wasilewski 99031100244 11.03.1999 ul.Jana Sobieskiego 82, 16-400 Suwalki 2020-05-12 
+2: 
+3: 
+9: 
+6: 
+1: 
+7: 
+10: 
+4: Rafal Nowak 902010220032 01.02.1990 ul.Kowalskiego 2, 16-400 Suwalki 2020-05-12 
+
+Pomieszczenie(id) i przedmioty, ktore sie w nim znajduja(id, rozmiar) 
+8: 
+5: 
+2: 
+3: 
+9: 
+6: 
+1: 
+7: 
+10: 
+4: Szafa 5.0, Krzeslo 5.0, 
+
+Pomieszczenie(id) i pojazdy, ktore sie w nim znajduja(id, rozmiar, cecha) 
+8: 
+5: 
+2: 
+3: 
+9: 
+6: 
+1: 
+7: 
+10: 
+4: 
